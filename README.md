@@ -19,5 +19,5 @@
 ### For Backend :
 * Open the Backend Project in any IDE
 * Set some application.propeties like `DBName`, `Username` and `password`
-** Note - DbName should be same as created in MySQL/PostgreSQL**
+* ** Note - DbName should be same as created in MySQL/PostgreSQL**
 
