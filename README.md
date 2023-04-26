@@ -18,5 +18,5 @@
 # How to run the Application
 ### For Backend :
 * Open the Backend Project in any IDE
-
+*** Note - set some application.propeties like `DBName`, Username and password
 
