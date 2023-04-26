@@ -35,5 +35,4 @@
 * Run the Application by writing a command **`npm start`** in terminal
 * It enable to run an frontend on local server, now application will be running on our browser
 
-**Note : It uses a PostgreSQL as a database**\
-     **: It uses a `Swagger Dependency` for APIs Documentation**
+**Note : It uses a `PostgreSQL` as a database and  `Swagger Dependency` for APIs Documentation**
