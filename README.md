@@ -15,5 +15,8 @@
 * IDE : VSCode, Intellij Idea
 
 
+# How to run the Application
+### For Backend :
+* Open the Backend Project in any IDE
 
 
