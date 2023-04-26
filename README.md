@@ -9,14 +9,15 @@
 * Author APIs
 
 # TechStack Used
-* For Backend : Spring Boot
-* For Frontend : React
-* For Database : PostgreSQL
-* IDE : VSCode, Intellij Idea
+* **For Backend** : Spring Boot
+* **For Frontend** : React
+* **For Database** : PostgreSQL
+* **IDE** : VSCode, Intellij Idea
 
 
 # How to run the Application
 ### For Backend :
 * Open the Backend Project in any IDE
-*** Note - set some application.propeties like `DBName`, Username and password
+* Set some application.propeties like `DBName`, `Username` and `password`
+** Note - DbName should be same as created in MySQL/PostgreSQL**
 
