@@ -8,4 +8,12 @@
 * Transaction APIs
 * Author APIs
 
+# TechStack Used
+* For Backend : Spring Boot
+* For Frontend : React
+* For Database : PostgreSQL
+* IDE : VSCode, Intellij Idea
+
+
+
 
