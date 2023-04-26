@@ -1,0 +1,113 @@
+.view{
+    background-color: antiquewhite;
+    height: 559px;
+}
+
+.studentInfo > h2{
+    text-align: center;
+    margin-top: 20px;
+}
+
+.topDetail{
+    height: 200px;
+    margin: 20px 30px;
+    display: flex;
+    justify-content: space-evenly;
+    background: azure;
+}
+
+.details{
+    border-radius: 2px solid red;
+}
+
+.bottomDetail{
+    border: 2px solid red;
+}
+
+.IssueBookByStudent{
+    height: 200px;
+    margin: 20px 30px;
+    background: rosybrown;
+    height: 233px;
+    overflow-y: scroll;
+    overflow-x: auto;
+}
+
+.leftpart{
+    width: 40%;
+    height: 195px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    padding-left: 25px;
+}
+
+.rightpart{
+    width: 40%;
+    height: 195px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    padding-left: 25px;
+}
+
+.leftpart > p{
+    font-weight: bold;
+    font-family: auto;
+    color: crimson;
+    font-size: 18px;
+}
+
+.rightpart > p{
+    font-weight: bold;
+    font-family: auto;
+    color: crimson;
+    font-size: 18px;
+}
+
+.cardpart{
+    width: 40%;
+}
+
+.cardpart > p > a{
+    height: 40px;
+    width: 180px;
+    margin: 20px 170px;
+    border-radius: 20px;
+    font-family: auto;
+    font-weight: bold;
+    color: white;
+    font-size: 18px;
+}
+.cardDetail{
+    width: 88%;
+    height: 200px;
+    color: crimson;
+    font-family: auto;
+    font-size: 18px;
+    font-weight: bold;
+    z-index: 1;
+}
+
+
+.issueBook{
+    border: 2px solid darkred;
+}
+
+.bookTr{
+    color: darkblue;
+    font-family: auto;
+    font-size: 18px;
+    position: sticky;
+    top: 0px;
+    left: 0px;
+    background: cornflowerblue;
+    text-align: center;
+}
+
+.bookColTr{
+    color: cornsilk;
+    font-family: math;
+    text-align: center;
+}
+

@@ -1,0 +1,35 @@
+.navstyle{
+    position: sticky;
+    top: 0;
+    left: 0;
+    z-index: 1;
+}
+.navbar-brand{
+    color: white;
+    font-weight: bolder;
+    font-size: 20px;
+}
+
+.button{
+    background-color: lavender;
+    color: black;
+    border: 2px solid darkmagenta;
+}
+.navbg{
+    background-color: cadetblue;
+}
+
+.bttn{
+    border: 2px solid gainsboro;
+    background-color: deepskyblue;
+    border-radius: 7px;
+    color: darkblue;
+    font-weight: bold;
+    margin-right: 10px;
+    padding: 8px 15px;
+    text-decoration: none;
+}
+
+.bttn:hover{
+    background-color: aliceblue;
+}

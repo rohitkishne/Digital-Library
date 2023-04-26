@@ -1,0 +1,85 @@
+.card{
+    height: 50%;
+    width: 28%;
+    margin: 30px 30px;
+}
+.card-header{
+    background-color: bisque;
+    font-size: 20px;
+    font-weight: bold;
+    color: chocolate;
+    font-family: ui-monospace;
+    text-align: center;
+}
+.card-body{
+    background-color:azure;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center;
+    padding: 20px;
+}
+
+.displaybook{
+    height: auto;
+    background: url("https://i.pinimg.com/originals/55/94/9a/55949a56bac64551755ffa266af0ded4.png");
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.card-title{
+    font-family: emoji;
+    color: black;
+
+}
+
+.card-text{
+    font-family: cursive;
+    color: tomato;
+}
+
+.bookBtn{
+    display: flex;
+    width: 340px;
+    height: 90px;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.issueBtn{
+    font-size: 18px;
+    font-family: auto;
+}
+
+.setModalBody{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 360px;
+}
+
+.modalh1{
+    color: blue;
+    font-family: auto;
+    font-weight: bold;
+}
+
+.modalP{
+    color: darkgreen;
+    font-family: serif;
+    font-weight: bold;
+}
+
+.forIssue{
+    /* border: 2px solid red; */
+    display: flex;
+    justify-content: space-evenly;
+    background-color: black;
+    height: 260px;
+}
+
+.bookissuebtn{
+    display: flex;
+    justify-content: space-evenly;
+}

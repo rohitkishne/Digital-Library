@@ -1,0 +1,42 @@
+.addBook{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center;
+    height: 800px;
+    background: url("https://www.athletadesk.com/wp-content/uploads/2016/08/join-background.jpg");
+}
+
+.studentRow{
+    width: 50%;
+}
+
+.form-label{
+    font-size: 20px;
+    font-weight: bold;
+    font-family: auto;
+    color: gold;
+   
+}
+
+.text{
+    text-align: center;
+}
+
+.btnstyle{
+        text-align: center;
+        margin-top: 10px;
+        width: 125px;
+        height: 45px;
+        font-size: 20px;
+        font-weight: bold;
+        color: inherit;
+        font-family: emoji;
+        background-color: lightskyblue;
+        border-radius: 10px;
+}
+
+.textarea{
+    height: 100px;
+}
+

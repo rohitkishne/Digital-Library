@@ -1,0 +1,50 @@
+.stubg{
+    height: 559px;
+    background-color: beige;
+}
+.studentDetail{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: auto;
+    background-color: beige;
+}
+.studentDetail > h1{
+    margin: 50px 0px;
+    font-family: auto;
+}
+
+.studenttable{
+    border: 1px solid burlywood;
+    width: 95%;
+}
+
+.studenttable > thead{
+    text-align: center;
+}
+.studenttable > tbody{
+    text-align: center;
+}
+
+.stucol{
+    width: 475px;
+}
+
+.stubtn{
+    width: 125px;
+    height: 40px;
+    margin: 0px 5px;
+    font-family: auto;
+}
+
+.stubtn:hover{
+    background-color: darkblue;
+}
+
+.studetail{
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+    overflow-x: auto;
+    height: 326px;
+}
