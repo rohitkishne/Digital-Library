@@ -12,7 +12,7 @@
 * After running Backend, Open the browser and type the url `http://localhost:8080/swagger-ui/index.html#/` 
 * It shows all the APIs present in the Digital Library Application.
 * After getting all APIs, Try out APIs for more understanding about the Application.
-* [See the All APIs of the Application](http://localhost:8080/swagger-ui/index.html#/)
+* [See All the APIs of Application](http://localhost:8080/swagger-ui/index.html#/)
 * **Note - Need to run the Server to see All APIs**
 
 # TechStack Used
@@ -36,4 +36,4 @@
 * It enable to run an frontend on local server, now application will be running on our browser
 
 **Note : It uses a PostgreSQL as a database
-       : It uses a `Swagger Dependecy` for APIs Documentation
+       : It uses a `Swagger Dependecy` for APIs Documentation**
